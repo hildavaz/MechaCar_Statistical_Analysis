@@ -24,3 +24,19 @@ The goal for this data analysis is:
   a p-value of 5.35.
 - The r-squeare value of 0.7149, indicates that the model is at 71% accurate, although there are still unconsidered factors.
 
+### Summary Statistics on Suspension Coils
+
+
+Total_Summary:
+
+![Suspension total summary](https://user-images.githubusercontent.com/105381777/188293566-4252d157-be49-4355-b471-6086c1238f74.PNG)
+
+Lot_Summary:
+
+![Suspension lot summary](https://user-images.githubusercontent.com/105381777/188293567-7c5b1bb6-2a99-43c3-ac40-789704866e5e.PNG)
+
+- The Variance int he Total_Summary is under 100 PSI meeting the specificaions, however in the Lot_Summary we can see that there is
+  a problem with Lot 3 with an statistical Varicance of 70.29 more than the 100 acceptable threshold.
+
+
+
