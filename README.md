@@ -37,6 +37,38 @@ Lot_Summary:
 
 - The Variance int he Total_Summary is under 100 PSI meeting the specificaions, however in the Lot_Summary we can see that there is
   a problem with Lot 3 with an statistical Varicance of 70.29 more than the 100 acceptable threshold.
+  
+  ### T.test_Suspension Coils
+  
+  Suspension Coils T-test
+  
+  The results for the suspension coils for all manufacturing losts shows no difference from population mean and the p-value is not 
+  too low, therefore the null hupothesis is not rejected.
+  
+  ![t,test suspension coilPSI](https://user-images.githubusercontent.com/105381777/188295878-37714900-edeb-423b-9b24-eecc474c6949.PNG)
+  
+  
+T.test results for lot1 do not show an statistical diffence from the mean polulation and the p-value is not low enough to reject the
+null hypotheis.
+
+![t test lot1 PSI](https://user-images.githubusercontent.com/105381777/188296049-71dbeaaf-4164-4773-ab1f-ac99132184d3.PNG)
+
+T.test results as shows below for lot2 do not show values to reject the null hypotheis.
+
+![t test lot2 PSI](https://user-images.githubusercontent.com/105381777/188296149-81a6945e-7121-4a4c-8f66-ae52caa8d453.PNG)
+
+T.test results for Lot3 with a slightly statistical difference from the population mean and the p-value low (0.0417) the null
+hypotheis is rejected.
+
+![t test lot3 PSI](https://user-images.githubusercontent.com/105381777/188296296-406c4d66-9113-4664-8059-8788e75e326c.PNG)
+
+
+
+
+  
+  
+  
+  
 
 
 
