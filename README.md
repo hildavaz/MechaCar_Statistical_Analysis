@@ -62,6 +62,21 @@ hypotheis is rejected.
 
 ![t test lot3 PSI](https://user-images.githubusercontent.com/105381777/188296296-406c4d66-9113-4664-8059-8788e75e326c.PNG)
 
+## Study Design: MechaCar vs Competition
+
+MechaCar should consider performing various categories comparing the competition, such are city or highway fuel efficiency, maintenance cost, or 
+safety rating.
+Metric to test:  fuel efficiency, maintenance cost, safety rating, by brand car size and brand.
+The averages of different cars in this categories can be compared to the average of MechaCar cars to find the the null hypothesis or altenate
+hypothesis. ANOVA test should be consider for this testing.
+Data needed to perform this test will be fuel efficiency, maintenance cost, safety rating of MechaCar prototypes.
+
+
+
+
+
+
+
 
 
 
